@@ -26,3 +26,5 @@ module "azuresql-mi-master" {
   zone_redundant_backup_enabled   = true
   zone_redundant_instance_enabled = true
 }
+
+```
