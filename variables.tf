@@ -1,0 +1,17 @@
+variable "tenant" {}
+variable "name" {}
+variable "server_name" {}
+variable "environment" {}
+variable "rg_name" {}
+variable "rg_location" {}
+variable "mi_subnet_ids" {}
+variable "license_type" {}
+variable "instance_sku" {}
+variable "vcores" {}
+variable "storage_size" {}
+variable "collation" {}
+variable "minimum_tls_version" {}
+variable "proxy_override" {}
+variable "timezone" {}
+variable "zone_redundant_backup_enabled" {}
+variable "zone_redundant_instance_enabled" {}
